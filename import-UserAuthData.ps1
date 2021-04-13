@@ -28,3 +28,4 @@ foreach ($user in $userData)
 
 
 
+Install-Module -Name Microsoft.Graph.Identity.SignIns
